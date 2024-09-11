@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alvin Joby</h1>
 <h3 align="center">In the realm of code, let's set the mode, where ideas explode</h3>
 
+[![Alvin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alvinjoby&theme=merko)](https://github.com/AlvinJoby/github-readme-activity-graph)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvinjoby" alt="alvinjoby" /></a> </p>
 
 - 🔭 I’m currently working on [schoolBook](govtschool.net)
